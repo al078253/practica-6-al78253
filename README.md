@@ -1,4 +1,4 @@
-# Práctica 5: Modelado de problemas en Ingeniería Civil
+# Práctica 6: Modelado de problemas en Ingeniería Civil
 
 ## Introducción
 El desarrollo de infraestructura vial requiere un planeamiento detallado de los materiales y costos, así como la evaluación de riesgos geotécnicos asociados a la construcción de pavimentos y terracerías. La correcta estimación de volúmenes, costos y riesgos permite optimizar recursos, minimizar fallas estructurales y asegurar la durabilidad de la vía.
